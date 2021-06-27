@@ -22,8 +22,8 @@
     "xml-js": "^1.6.11"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy":"npm run winBuild",
+    "deploy": "gh-pages -d winBuild",
     "start": "react-scripts start",
     "build": "GENERATE_SOURCEMAP=false react-scripts build",
     "winBuild": "set \"GENERATE_SOURCEMAP=false\" && react-scripts build",
