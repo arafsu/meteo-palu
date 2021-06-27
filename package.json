@@ -1,0 +1,46 @@
+{
+  "homepage": "http://arafsu.github.io/meteo-palu",
+  "name": "website-v1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "gh-pages": "^3.2.3",
+    "leaflet": "^1.7.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-leaflet": "^3.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-xml-parser": "^1.1.8",
+    "styled-components": "^5.3.0",
+    "web-vitals": "^1.1.2",
+    "xml-js": "^1.6.11"
+  },
+  "scripts": {
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "gh-pages":"^3.2.3"
+  }
+}
