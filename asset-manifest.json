@@ -1,14 +1,10 @@
 {
   "files": {
     "main.js": "/meteo-palu/static/js/main.ce810d7b.chunk.js",
-    "main.js.map": "/meteo-palu/static/js/main.ce810d7b.chunk.js.map",
     "runtime-main.js": "/meteo-palu/static/js/runtime-main.58ffdbbc.js",
-    "runtime-main.js.map": "/meteo-palu/static/js/runtime-main.58ffdbbc.js.map",
-    "static/css/2.c1e28d34.chunk.css": "/meteo-palu/static/css/2.c1e28d34.chunk.css",
+    "static/css/2.5abdb074.chunk.css": "/meteo-palu/static/css/2.5abdb074.chunk.css",
     "static/js/2.b33151d9.chunk.js": "/meteo-palu/static/js/2.b33151d9.chunk.js",
-    "static/js/2.b33151d9.chunk.js.map": "/meteo-palu/static/js/2.b33151d9.chunk.js.map",
     "index.html": "/meteo-palu/index.html",
-    "static/css/2.c1e28d34.chunk.css.map": "/meteo-palu/static/css/2.c1e28d34.chunk.css.map",
     "static/js/2.b33151d9.chunk.js.LICENSE.txt": "/meteo-palu/static/js/2.b33151d9.chunk.js.LICENSE.txt",
     "static/media/1_alur_pelayanan.jpg": "/meteo-palu/static/media/1_alur_pelayanan.84b5e478.jpg",
     "static/media/2_alur_pengaduan.jpg": "/meteo-palu/static/media/2_alur_pengaduan.1e6cce5b.jpg",
@@ -32,7 +28,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.58ffdbbc.js",
-    "static/css/2.c1e28d34.chunk.css",
+    "static/css/2.5abdb074.chunk.css",
     "static/js/2.b33151d9.chunk.js",
     "static/js/main.ce810d7b.chunk.js"
   ]
